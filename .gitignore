@@ -1,0 +1,9 @@
+## Data folders
+data/*
+
+## Data format
+*.csv
+*.pickle
+*.RDS
+*.RData
+*.feather
