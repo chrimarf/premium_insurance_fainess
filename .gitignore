@@ -12,3 +12,4 @@ data/*
 *.Rproj
 *.idea
 *.RHistory
+*.ipynb_checkpoints
