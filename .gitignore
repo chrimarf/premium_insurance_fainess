@@ -7,3 +7,8 @@ data/*
 *.RDS
 *.RData
 *.feather
+
+## ide files
+*.Rproj
+*.idea
+*.RHistory
